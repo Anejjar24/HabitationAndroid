@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HabitationAndroid</string>
+    <string name="title">Calcul des impôts locaux</string>
+    <string name="nom">Nom</string>
+    <string name="adresse">Adresse</string>
+    <string name="surface">Surface</string>
+    <string name="nbr_pieces">Nombre de pièces</string>
+    <string name="calcul">Calcul</string>
+    <string name="piscine">Piscine</string>
+
+</resources>
