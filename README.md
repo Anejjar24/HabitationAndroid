@@ -10,6 +10,25 @@ Cette application mobile permet aux utilisateurs de calculer le prix des impôts
 - **Calcul automatique** : À partir des données saisies, l'application calcule l'impôt de base et l'impôt supplémentaire, fournissant un total à payer.
 - **Interface utilisateur conviviale** : Design simple et clair pour une expérience utilisateur fluide.
 
+##  Composants de l'Application
+### Écran Principal
+L'écran principal est l'interface où les utilisateurs saisissent leurs informations. Il comprend les éléments suivants :
+
+#### Champs de Saisie :
+- Nom : Un champ de texte pour que l'utilisateur entre son nom.
+- Adresse : Un champ de texte pour l'adresse de l'utilisateur.
+- Surface : Un champ de saisie numérique pour indiquer la surface de l'habitation (en mètres carrés).
+- Nombre de pièces : Un champ de saisie numérique pour le nombre de pièces dans l'habitation.
+- Piscine : Une case à cocher (checkbox) pour indiquer si l'utilisateur a une piscine.
+#### Bouton de Calcul :
+CALCUL : Un bouton qui, lorsqu'il est cliqué, déclenche le calcul des impôts en fonction des données saisies.
+### Affichage des Résultats
+Après que l'utilisateur a cliqué sur le bouton CALCUL, les résultats s'affichent sur le même écran :
+
+- Impôt de Base : Un champ qui affiche le montant de l'impôt de base calculé.
+- Impôt Supplémentaire : Un champ qui affiche le montant de l'impôt supplémentaire calculé.
+- Impôt Total : Un champ qui affiche le montant total à payer, incluant l'impôt de base et l'impôt supplémentaire.
+
 ## Technologies Utilisées
 
 - **Plateforme** : Android
